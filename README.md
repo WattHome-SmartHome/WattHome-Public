@@ -1,6 +1,6 @@
-# watthome_app
+# Watthome
 
-The watthome app, made with Flutter and a bit of love!
+The watthome app, made with Flutter and a bit of love by group 12 from Heriot Watt University!
 
 ## Features
 
@@ -51,5 +51,5 @@ Contributions are welcome! Please fork the repository and create a pull request 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the APACHE License - see the [LICENSE](LICENSE) file for details.
 
