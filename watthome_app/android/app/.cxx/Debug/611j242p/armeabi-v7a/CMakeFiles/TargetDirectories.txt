@@ -1,0 +1,2 @@
+C:/Users/ajaz2/OneDrive/Desktop/Stuffff/WattHome-App/watthome_app/android/app/.cxx/Debug/611j242p/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/ajaz2/OneDrive/Desktop/Stuffff/WattHome-App/watthome_app/android/app/.cxx/Debug/611j242p/armeabi-v7a/CMakeFiles/rebuild_cache.dir

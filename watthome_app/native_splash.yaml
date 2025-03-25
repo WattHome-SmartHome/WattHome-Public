@@ -1,0 +1,10 @@
+flutter_native_splash:
+  android: true
+  web: true
+
+  color: "#F8F5EC"
+  image: "assets/Images/LogoHouse.png"
+
+  android_12:
+    color: "#F8F5EC"
+    image: "assets/Images/LogoHouse.png"

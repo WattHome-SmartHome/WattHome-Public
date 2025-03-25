@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "620844971969",
+    "project_id": "watthome-2132e",
+    "storage_bucket": "watthome-2132e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620844971969:android:fb53a160a382914ab4e140",
+        "android_client_info": {
+          "package_name": "com.example.watthome_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn2LgdQuO5thdZZ3AzaMAuQbQy2WkHx-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

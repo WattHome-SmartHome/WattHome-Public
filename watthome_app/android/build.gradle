@@ -1,0 +1,23 @@
+plugins {
+    id 'com.android.application' version '8.2.0' apply false  // Correct AGP version
+    id 'com.google.gms.google-services' version '4.4.2' apply false  // Firebase plugin if used
+}
+
+allprojects {
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+
+rootProject.buildDir = "../build"
+subprojects {
+    project.buildDir = "${rootProject.buildDir}/${project.name}"
+}
+subprojects {
+    project.evaluationDependsOn(":app")
+}
+
+tasks.register("clean", Delete) {
+    delete rootProject.buildDir
+}
